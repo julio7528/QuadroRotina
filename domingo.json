@@ -1,0 +1,92 @@
+[
+    {
+        "horario": "08:00",
+        "emoji": "🌅",
+        "atividade": "Acordar e arrumar a cama (DOM)"
+    },
+    {
+        "horario": "08:10",
+        "emoji": "🪥",
+        "atividade": "Higiene pessoal (escovar os dentes, lavar o rosto)"
+    },
+    {
+        "horario": "08:30",
+        "emoji": "☕",
+        "atividade": "Cappuccino + remédio"
+    },
+    {
+        "horario": "08:30",
+        "emoji": "🥪",
+        "atividade": "Pão com salame"
+    },
+    {
+        "horario": "08:45",
+        "emoji": "🏴‍☠️",
+        "atividade": "One Piece 1"
+    },
+    {
+        "horario": "09:30",
+        "emoji": "🏴‍☠️",
+        "atividade": "One Piece 2"
+    },
+    {
+        "horario": "10:00",
+        "emoji": "🕰️",
+        "atividade": "Tempo Livre"
+    },
+    {
+        "horario": "10:30",
+        "emoji": "🍵",
+        "atividade": "Chá da manhã"
+    },
+    {
+        "horario": "11:30",
+        "emoji": "🍛",
+        "atividade": "Almoço"
+    },
+    {
+        "horario": "12:00",
+        "emoji": "🕰️",
+        "atividade": "Tempo Livre"
+    },
+    {
+        "horario": "14:30",
+        "emoji": "🍵",
+        "atividade": "Chá da Tarde"
+    },
+    {
+        "horario": "16:00",
+        "emoji": "🚿",
+        "atividade": "Banho"
+    },
+    {
+        "horario": "16:30",
+        "emoji": "⛪",
+        "atividade": "Ir para Igreja"
+    },
+    {
+        "horario": "18:30",
+        "emoji": "🍽️",
+        "atividade": "Jantar"
+    },
+    {
+        "horario": "19:00",
+        "emoji": "🎉",
+        "atividade": "Evento"
+    },
+    {
+        "horario": "21:00",
+        "emoji": "🕰️",
+        "atividade": "Livre"
+    },
+    {
+        "horario": "22:00",
+        "emoji": "🎬",
+        "atividade": "Filme"
+    },
+    {
+        "horario": "23:00",
+        "emoji": "🛏️",
+        "atividade": "Escovar Dente e Dormir"
+    }
+]

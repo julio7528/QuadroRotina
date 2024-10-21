@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quadro de Rotina Diária: José Luiz</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"> <!-- Font Awesome para ícones -->
+</head>
+<body>
+    <header>
+        <h1>Quadro de Rotina Diária: José</h1>
+        <div id="themeSwitchContainer">
+            <div class="switch__container">
+                <input id="themeSwitch" class="switch switch--shadow" type="checkbox" />
+                <label for="themeSwitch"></label>
+            </div>
+        </div>
+    </header>
+
+    <!-- Botões para selecionar o dia -->
+    <div id="dayButtons">
+        <button class="day-button" data-day="segunda">Segunda</button>
+        <button class="day-button" data-day="terca">Terça</button>
+        <button class="day-button" data-day="quarta">Quarta</button>
+        <button class="day-button" data-day="quinta">Quinta</button>
+        <button class="day-button" data-day="sexta">Sexta</button>
+        <button class="day-button" data-day="sabado">Sábado</button>
+        <button class="day-button" data-day="domingo">Domingo</button>
+    </div>
+
+    <div id="buttonContainer">
+        <button id="clearButton">🧹 Limpar Todos</button>
+        <button id="resetButton">🔄 Resetar Dados</button>
+    </div>
+
+    <h2 id="dayTitle">Selecione um dia</h2>
+
+    <!-- Indicador de progresso -->
+    <div id="progressContainer">
+        <progress id="progressBar" value="0" max="100"></progress>
+        <span id="progressText">0% concluído</span>
+    </div>
+
+    <!-- Tabela de atividades -->
+    <table>
+        <thead>
+            <tr>
+                <th>Feito</th>
+                <th>Não Feito</th>
+                <th>Horário</th>
+                <th></th>
+                <th>Atividade</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>

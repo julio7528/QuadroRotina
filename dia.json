@@ -1,0 +1,87 @@
+[
+    {
+        "horario": "06:30",
+        "emoji": "🌅",
+        "atividade": "Acordar (Arrumar a Cama e Higiene Pessoal)"
+    },
+    {
+        "horario": "06:50",
+        "emoji": "🍞",
+        "atividade": "Café da manhã (Cappuccino + Remédio + Pão com Salame)"
+    },
+    {
+        "horario": "07:20",
+        "emoji": "🚗",
+        "atividade": "Sair com você para levar a mãe ao trabalho"
+    },
+    {
+        "horario": "08:00",
+        "emoji": "🏴‍☠️",
+        "atividade": "One Piece (2 episódios)"
+    },
+    {
+        "horario": "09:00",
+        "emoji": "✂️",
+        "atividade": "Treino Recorte Tio Caio"
+    },
+    {
+        "horario": "09:30",
+        "emoji": "📖",
+        "atividade": "Estudar e Tarefa"
+    },
+    {
+        "horario": "10:30",
+        "emoji": "🍵",
+        "atividade": "Chá da manhã"
+    },
+    {
+        "horario": "11:00",
+        "emoji": "🍛",
+        "atividade": "Almoço e depois escovar os dentes"
+    },
+    {
+        "horario": "11:30",
+        "emoji": "🚿",
+        "atividade": "Banho para a escola"
+    },
+    {
+        "horario": "12:10",
+        "emoji": "🚌",
+        "atividade": "Ir para a escola (Levar Vitamina no carro)"
+    },
+    {
+        "horario": "12:30 a 17:25",
+        "emoji": "📚",
+        "atividade": "Aula"
+    },
+    {
+        "horario": "18:00",
+        "emoji": "🚿",
+        "atividade": "Jantar e Tomar banho"
+    },
+    {
+        "horario": "18:30",
+        "emoji": "🚗",
+        "atividade": "Buscar mãe no trabalho"
+    },
+    {
+        "horario": "20:00",
+        "emoji": "🏋️‍♂️",
+        "atividade": "Ir para academia"
+    },
+    {
+        "horario": "22:00",
+        "emoji": "🪥",
+        "atividade": "Chá da noite Higiene noturna (escovar os dentes)"
+    },
+    {
+        "horario": "22:15",
+        "emoji": "🎒",
+        "atividade": "Preparar Material e Roupa escola"
+    },
+    {
+        "horario": "22:30",
+        "emoji": "🛏️",
+        "atividade": "Hora de dormir"
+    }
+]

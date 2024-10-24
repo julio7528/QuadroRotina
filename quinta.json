@@ -1,38 +1,28 @@
 [
     {
         "horario": "06:30",
-        "emoji": "🌅",
-        "atividade": "Acordar e arrumar a cama(QUI)"
+        "emoji": "⏰",
+        "atividade": "Acordar e arrumar a cama (QUI)"
     },
     {
         "horario": "06:40",
-        "emoji": "🪥",
+        "emoji": "🧼",
         "atividade": "Higiene pessoal (escovar os dentes, lavar o rosto)"
     },
     {
         "horario": "06:50",
-        "emoji": "🍞",
-        "atividade": "Café da manhã"
+        "emoji": "🥞",
+        "atividade": "Café da manhã)"
     },
     {
-        "horario": "06:50",
-        "emoji": "☕",
-        "atividade": "Cappuccino + remédio"
-    },
-    {
-        "horario": "06:55",
-        "emoji": "🥪",
-        "atividade": "Pão com salame"
-    },
-    {
-        "horario": "07:20",
-        "emoji": "🚗",
+        "horario": "07:40",
+        "emoji": "🚙",
         "atividade": "Sair com você para levar a mãe ao trabalho"
     },
     {
         "horario": "08:00",
-        "emoji": "🏴‍☠️",
-        "atividade": "Pisicologa e T.O."
+        "emoji": "🥼",
+        "atividade": "Psicóloga e T.O."
     },
     {
         "horario": "10:00",
@@ -41,28 +31,28 @@
     },
     {
         "horario": "10:30",
-        "emoji": "🚿",
+        "emoji": "🎮",
         "atividade": "Tempo Livre"
     },
     {
         "horario": "11:00",
-        "emoji": "🚿",
+        "emoji": "🛁",
         "atividade": "Banho para a escola"
     },
     {
-        "horario": "11:45",
-        "emoji": "🪥",
-        "atividade": "Escovar os dentes"
-    },
-    {
         "horario": "11:30",
-        "emoji": "🍛",
+        "emoji": "🍲",
         "atividade": "Almoço"
     },
     {
         "horario": "12:00",
         "emoji": "🥤",
         "atividade": "Vitamina"
+    },
+    {
+        "horario": "12:05",
+        "emoji": "🦷",
+        "atividade": "Escovar os dentes"
     },
     {
         "horario": "12:10",
@@ -73,11 +63,6 @@
         "horario": "12:30 a 17:25",
         "emoji": "📚",
         "atividade": "Aulas na escola (tarde)"
-    },
-    {
-        "horario": "17:30",
-        "emoji": "🥪",
-        "atividade": "Comprar Subway"
     },
     {
         "horario": "18:00",
@@ -107,12 +92,7 @@
     {
         "horario": "22:15",
         "emoji": "🎒",
-        "atividade": "Preparar-se para o dia seguinte (organizar mochila, preparar materiais etc.)"
-    },
-    {
-        "horario": "22:30",
-        "emoji": "👔",
-        "atividade": "Preparar a roupa do dia seguinte com você"
+        "atividade": "Preparar-se para o dia seguinte (organizar mochila e roupa)"
     },
     {
         "horario": "22:45",
@@ -121,7 +101,7 @@
     },
     {
         "horario": "23:00",
-        "emoji": "🛏️",
+        "emoji": "🌙🛌",
         "atividade": "Hora de dormir"
     }
 ]

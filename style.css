@@ -64,6 +64,11 @@ button {
     align-items: center;
     gap: 10px;
 }
+#reportLink {
+    text-decoration: none;
+  }
+  
+
 
 button:hover {
     background-color: #3399ff;
